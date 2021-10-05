@@ -1,4 +1,5 @@
 import python
+import semmle.python.security.dataflow.CleartextLoggingCustomizations
 import semmle.python.security.dataflow.CleartextStorageCustomizations
 
 
